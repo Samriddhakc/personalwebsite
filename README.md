@@ -1,5 +1,5 @@
 # PersonalWebsite
-A personal website/protfolio with projects, experiences, and overview shared. 
+A personal website/protfolio/page with projects, experiences, and overview shared. 
 
 # Getting Started with Create React App
 
