@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "Java",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "Python",
+      "amount": "90"
+    },
+    { "id": 6, 
+      "skillName": "Spring", 
+      "amount": "90"
+     },
+     { "id": 6, 
+      "skillName": "Spring Boot", 
+      "amount": "90"
+     },
+    { "id": 6, 
+      "skillName": "Kafka", 
+      "amount": "70"
+     },
+    {
+      "id": 5,
+      "skillName": "React",
+      "amount": "75"
+    },
+    { "id": 3, "skillName": 
+      "Javascript", 
+      "amount": "20" 
+    },
+    {
+      "id": 2,
+      "skillName": "Angular",
+      "amount": "20"
+    }
+  ]
+}

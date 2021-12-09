@@ -1,0 +1,10 @@
+.section-title {
+  font-size: 25pt;
+  margin-bottom: 10px;
+}
+.underline {
+  border-top: 4px solid White;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  width: 70px;
+}

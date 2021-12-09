@@ -1,0 +1,57 @@
+{
+  "experience": [
+
+    {
+      "id": 0,
+      "link": "https://www.temple.edu/",
+      "company": "Temple University",
+      "title": "Machine Learning Research Assistant",
+      "dateFrom": "June 2018",
+      "dateTo": "August 2018",
+      "info": [
+        "Designed a machine learning pipeline to train 5 million hotel room images on GPU, enabling seamless experimentation and analysis of results for improving prediction of sex traﬀicking",
+        "Developed a proof of concept to eﬀiciently produce a single embedding vector to classify hotel room images based on multiple properties without compromising the F1-score and accuracy"
+      ],
+      "stack": ["Python", "Tensorflow", "Keras", "Jupyter Notebook"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(145deg, rgb(164, 30, 53) 0%, rgb(164, 30, 53) 98%)",
+      "colourSecondary": "linear-gradient(145deg, rgb(164, 30, 53) 0%, rgb(164, 30, 53) 98%)"
+    },
+   
+    {
+      "id": 1,
+      "link": "https://www.morganstanley.com/",
+      "company": "Morgan Stanley",
+      "title": "Software Engineering Intern/Analyst",
+      "dateFrom": "June 2019",
+      "dateTo": "August 2019",
+      "info": [
+         "Developed a full-stack web application to search, view, edit and delete 17000+ XML reports and increased team performance by saving more than 5 minutes per hour",
+         "Implemented Depth First Search (DFS) tree algorithm to convert SQL result set to XML in linear time and show reports in a readable and clear format"
+      ],
+      "stack": ["Java", "Apache CXF", "Angular", "SQL"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(291deg, rgb(0, 44, 81) 0%, rgb(0, 44, 81) 98%)",
+      "colourSecondary": "linear-gradient(291deg, rgb(0, 44, 81) 0%, rgb(0, 44, 81) 98%)"
+    },
+    {
+      "id": 2,
+      "link": "https://www.morganstanley.com/",
+      "company": "Morgan Stanley",
+      "title": "Software Engineer/Associate - Microservices",
+      "dateFrom": "June 2020",
+      "dateTo": "Present",
+      "info": [
+        "Enabled seamless real-time single sign-on experience for 1 million+ E-Trade and Morgan Stanley clients by developing reactive microservices to sync backend databases using Kafka",
+        "Leading development of a one-stop dashboard to keep track of server and downstream health for microservices owned by Party and Data Services Team for seamless deployment monitoring and failure detection",
+        "Saved engineers across Morgan Stanley Wealth Management backend systems 5+ hours of manual comparison every bi-monthly release for 10+ microservices by automating configuration management",
+        "Developed a proof of concept for distributed log tracing tool to visualize workflows for Morgan Stanley Online platform and enable eﬀicient error detection"
+      ],
+      "stack": ["Java", "Spring", "Spring Boot", "Kafka", "Azure", "React", "Python", "Flask", "Mongo DB"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(291deg, rgb(0, 44, 81) 0%, rgb(0, 44, 81) 98%)",
+      "colourSecondary": "linear-gradient(291deg, rgb(0, 44, 81) 0%, rgb(0, 44, 81) 98%)"
+    }
+    
+  ]
+}

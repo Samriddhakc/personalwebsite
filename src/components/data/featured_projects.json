@@ -1,0 +1,26 @@
+{
+  "featured_projects": [
+    {
+      "id": 0,
+      "name": "InstantFeedback",
+      "link": "https://www.cactuscan.com/",
+      "description": "An application for professors and mentors to see instant feedback given by students regarding their assignments.",
+      "colour": "linear-gradient(to top, rgb(0, 122, 65),rgb(37, 207, 108))",
+      "languages": [
+        { "name": "Java", "color": "rgb(241, 224, 90)" },
+        { "name": "AndroidStudio", "color": "rgb(100, 219, 255)" }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "PublishingReccomender",
+      "link": "https://www.bartiniapp.com/",
+      "description": "An end to end machine learning project using Cosine Similarity, TF-IDF Vectorizer, and Count Vectroizer to find the 'weird' articles. To request output(articles headings of the 'weird articles') from the rest endpoint",
+      "colour": "linear-gradient(to bottom right, rgb(193, 56, 85),rgb(230, 162, 53))",
+      "languages": [
+        { "name": "Python", "color": "rgb(241, 224, 90)" },
+        { "name": "SKLearn", "color": "rgb(86, 61, 124)" },
+      ]
+    }
+  ]
+}
